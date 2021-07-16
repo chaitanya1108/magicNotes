@@ -1,6 +1,8 @@
 _A note taking app with filtering notes capability and uses local storage to save the notes, built with vanilla JavaScript and Bootstrap._
 
-![Capture](https://user-images.githubusercontent.com/80414508/125502402-7bc0127a-def3-4785-a1f1-bf23f4577ba5.JPG)
+** __UPDATED__ **
+
+![image](https://user-images.githubusercontent.com/80414508/125966113-b336c722-07b8-4206-8425-09f5ace5bc99.png)
 
 ![image](https://user-images.githubusercontent.com/80414508/125503013-e29e1136-49bd-4da8-8409-b419b5a03cc7.png)
 
